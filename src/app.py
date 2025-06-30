@@ -57,7 +57,7 @@ activities = {
         "max_participants": 20,
         "participants": []
     },
-    "Drama Club": {
+    "Chess Club": {
         "description": "Acting and theater production activities",
         "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
         "max_participants": 25,
